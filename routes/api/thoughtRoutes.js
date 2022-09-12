@@ -9,7 +9,6 @@ const {
   createReaction,
   deleteReaction
 } = require('../../controllers/thoughtController');
-
 // just get all the thoughts. Get & create
 router
 .route('/')
